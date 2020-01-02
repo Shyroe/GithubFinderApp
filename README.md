@@ -1,4 +1,4 @@
-GithubFinder App
+## GithubFinder App
 
 ![HomepageImage](https://user-images.githubusercontent.com/32007101/71689918-f99bf480-2d81-11ea-9345-1407575b37ea.JPG)
 

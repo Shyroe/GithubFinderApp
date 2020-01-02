@@ -1,3 +1,8 @@
+GithubFinder App
+Homepage
+https://user-images.githubusercontent.com/32007101/71687062-aa52c580-2d7b-11ea-9252-1ea65eb2c36f.png
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -2,6 +2,12 @@ GithubFinder App
 
 ![HomepageImage](https://user-images.githubusercontent.com/32007101/71689918-f99bf480-2d81-11ea-9345-1407575b37ea.JPG)
 
+## Pesquisando por perfis de usuários do Github
+![Search](https://user-images.githubusercontent.com/32007101/71690259-eccbd080-2d82-11ea-9b86-30f3bf730008.JPG)
+
+## Informações relacionadas ao Perfil do usuário Github
+![UserPerfil](https://user-images.githubusercontent.com/32007101/71690335-1e449c00-2d83-11ea-9d23-32c5000a2bb2.JPG)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

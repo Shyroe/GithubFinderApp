@@ -1,4 +1,9 @@
 ## GithubFinder App
+Este projeto é uma aplicação, que utiliza a Api do Github. Consiste em pesquisar por um usuário do Github e a aplicação retorna 30 usuários que estão relacionados com o nome inserido no campo de busca. Ao clicar em um usuário você poderá ver suas informações e acessar links que levam ao perfil do mesmo no Github ou à projetos realizados.
+
+Projeto Front-End, construído com o framework React e Api do Github. Ao desenvolver esse projeto compreendi importantes conceitos e tecnologias do React. E, também, trabalhei com rotas e requisições assíncronas à API.
+
+Acessar projeto: https://githubfinder-reactapp.netlify.com
 
 ![HomepageImage](https://user-images.githubusercontent.com/32007101/71689918-f99bf480-2d81-11ea-9345-1407575b37ea.JPG)
 
